@@ -7,8 +7,8 @@ Prüfung auf Existenz des identificationInfo Elements.
 
 **Testmethode**	
 
-# Prüfe, ob das Element identificationInfo als Unterelement von MD_Metadata vorhanden ist.
-# Prüfe, ob das Element identificationInfo als Unterelement von MD_Metadata mehrfach vorhanden ist.
+1. Prüfe, ob das Element identificationInfo als Unterelement von MD_Metadata vorhanden ist.
+2. Prüfe, ob das Element identificationInfo als Unterelement von MD_Metadata mehrfach vorhanden ist.
   
 
 **Fehlermeldungen/Warnungen**
