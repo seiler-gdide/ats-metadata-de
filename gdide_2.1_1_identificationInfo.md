@@ -1,5 +1,5 @@
 
-# Schema Validierung der Ressource 
+# Multiplizität des identificationInfo-Element 
 
 **Ziel**	
 
